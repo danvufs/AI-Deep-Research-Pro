@@ -90,7 +90,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For queries or feedback, please contact [danvufs](https://github.com/danvufs).
 
----
-```
 
-Let me know if there is anything else you'd like to add or modify!
