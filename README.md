@@ -1,12 +1,5 @@
 
-### **Description**
-AI Deep Research is a TypeScript-driven web application hosted at [AI Deep Research](https://ai-deep-research-pink.vercel.app). It focuses on exploring cutting-edge advancements in artificial intelligence, providing an interactive platform for research, analysis, and experimentation.
 
----
-
-### **README**
-
-```markdown
 # AI Deep Research
 
 **AI Deep Research** is an advanced platform for exploring, analyzing, and experimenting with the latest developments in artificial intelligence. Built with TypeScript, it offers a streamlined interface for researchers and developers to dive into AI technologies with ease.
